@@ -1,8 +1,9 @@
 # Horiseon Project 
 ## Description 
-This homework aims to refactor a website code to be more descriptive. We have achieved it thanks to semantic HTML elements.
+This homework aims to refactor a website code to be more descriptive. We have achieved this thanks to semantic HTML elements.
 
 Changes done to the index.html file:
+
 1. change first <div> element to <header>
 2. change last <div> element to <footer>
 3. change the third <div> which is responsible for the navigation of the page to <nav>
