@@ -1,7 +1,14 @@
 # Horiseon Project 
 ## Description 
 
-TODO 
+Changes done to the index.html file:
+1. change first <div> element to <header>
+2. change last <div> element to <footer>
+3. change the third <div> which is responsible for the navigation of the page to <nav>
+
+
+Change to style.css
+1. update div with nav to match the change on point 3 from the html file
 
 Click [here()] to view the Project on Github pages. 
 
