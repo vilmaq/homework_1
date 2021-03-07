@@ -23,3 +23,9 @@ git clone git@github.com:vilmaq/homework_1.git
  - Open the index.html file in your default browser 
  
 
+# Screenshot 
+
+## Website before refactor 
+![image before refactor](./assets/images/website-ps-before-refactor.png)
+
+## Website after refactor 
