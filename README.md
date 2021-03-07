@@ -17,7 +17,7 @@ Changes to style.css
 1. update div with nav to match the change on point 3 from the html file
 2. Replace repetitive attributes for different selectors with a list of selectors (classes) 
 
-Click [here(https://vilmaq.github.io/homework_1/)] to view the Project on Github pages. 
+Click [here](https://vilmaq.github.io/homework_1/) to view the Project on Github pages. 
 
 
  ## Getting Started 
@@ -38,3 +38,4 @@ git clone git@github.com:vilmaq/homework_1.git
 ![image before refactor](./assets/images/website-ps-before-refactor.png)
 
 ## Website after refactor 
+![image before refactor](./assets/images/website-ps-after-refactor.png)
