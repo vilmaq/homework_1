@@ -86,18 +86,21 @@ p {
     background-color: #2589bd;
 }
 
+/* applying the same style for all sections inside main; reference by class name  */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost  {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+ 
+/* applying the same style for all elements inside benefits class  */
 .benefits {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* applied the same style to all images inside the main element; another way of doing it could have been using the class .content  */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -105,7 +108,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+ /* applied the same style to the classes in the main section  */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing 
@@ -117,6 +120,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* applied the same style to all the images inside the class content */
  .content img { 
     max-height: 200px;
  }
@@ -133,10 +138,14 @@ p {
     max-height: 200px;
 }
 */
+
+/* refactored the h2 headers inside the class content */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* old code has been commented out */
+
 /*.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
