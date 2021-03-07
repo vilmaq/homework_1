@@ -1,16 +1,22 @@
 # Horiseon Project 
 ## Description 
+This homework aims to refactor a website code to be more descriptive. We have achieved it thanks to semantic HTML elements.
 
 Changes done to the index.html file:
 1. change first <div> element to <header>
 2. change last <div> element to <footer>
 3. change the third <div> which is responsible for the navigation of the page to <nav>
 4. Add a main element to main content 
+5. Add sections inside the main element (replace the respective div elements with section elements)
+6. Add aside element for the benefits
+7. Add section elements for the respective benefits 
+8. Add alt attributes for the respective images inside the benefits sections
+9. Fix nav link to search-engine-optimization
 
 Change to style.css
 1. update div with nav to match the change on point 3 from the html file
 
-Click [here()] to view the Project on Github pages. 
+Click [here(https://vilmaq.github.io/homework_1/)] to view the Project on Github pages. 
 
 
  ## Getting Started 
